@@ -1,0 +1,25 @@
+:root {
+        		--i-global-color-primary: #BF0000;
+				--i-global-color-secondary: #54595F;
+				--i-global-color-text: #333333;
+				--i-global-color-accent: #9D1318;
+				--i-global-color-1ba453a: #FFFFFFB3;
+				--i-global-color-e80ec6f: #BF0000;
+				--i-global-color-ec7017a: #FFFFE0C2;
+				--i-global-color-745310b: #333333;
+				--i-global-color-55d201c: #1274E1;
+				--i-global-typography-primary-font-family: "Roboto";
+				--i-global-typography-primary-font-weight: 600;
+				--i-global-typography-secondary-font-family: "Roboto Slab";
+				--i-global-typography-secondary-font-weight: 400;
+				--i-global-typography-text-font-family: "Roboto";
+				--i-global-typography-text-font-weight: 400;
+				--i-global-typography-accent-font-family: "Roboto";
+				--i-global-typography-accent-font-weight: 500;
+				color: #333333;
+				font-family: "Roboto", Sans-serif;
+				font-size: 18px;
+				font-weight: normal;
+				line-height: 1.4em;
+				background-color: #FFFFE0C2;
+    }
